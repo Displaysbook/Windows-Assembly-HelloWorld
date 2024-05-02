@@ -1,3 +1,4 @@
+;C:\nasmexe>lib /def:C:\...\\kernel32.def /out:C:\...\kernel32.lib /machine:x64 /list
 default rel
 extern GetStdHandle, WriteConsoleA
 
