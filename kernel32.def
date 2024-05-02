@@ -1,0 +1,4 @@
+LIBRARY "kernel32"
+EXPORTS
+    GetStdHandle @756
+    WriteConsoleA @1601
